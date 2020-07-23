@@ -103,21 +103,20 @@ header label:hover
 
 #SOSS
 {
-	padding: 30px 30px;
+	padding: 10px 110px;
 	color: white;
 }
 
 #Descripcion-Texto
 {
-	padding: 30px 30px;
-	width: 50%;
+	padding: 20px 110px;
+	width: 40%;
 	float: left;
 	color: white;
 }
 
 #Descripcion-Imagen
 {
-	
 	width: auto;
 }
 
@@ -155,9 +154,24 @@ header label:hover
 	.Banner
 	{
 		display: block;
-		margin-left: 20px;
-		margin-right: 20px;
-		margin-top: 20px;
+		margin-left:10px;
+		margin-right: 10px;
+		margin-top: 30px;
 		width: 100%;
+	}
+
+	#SOSS
+	{
+		padding: 10px 110px;
+	}
+
+	#Descripcion-Texto
+	{
+		padding: 20px 110px;
+	}
+
+	#Descripcion-Imagen
+	{
+		width: auto;
 	}
 }
