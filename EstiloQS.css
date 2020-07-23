@@ -59,9 +59,9 @@ header label:hover
 	transition: 0.3s;
 }
 
-#Inicio
+.menu ul #Inicio a
 {
-	background: red;
+	color: white;
 }
 
 .menu ul #Logo
@@ -69,9 +69,10 @@ header label:hover
 	background-color: #25221D;
 }
 
-.menu ul #QS a
+#QS
 {
-	color: white;
+	background: red;
+	color: black;
 }
 
 .menu ul #AD a
@@ -90,35 +91,6 @@ header label:hover
 	padding: 10px 10px;
 	color: black;
 	text-decoration: none;
-}
-
-.Banner
-{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: auto;
-	width: 97%;
-}
-
-#SOSS
-{
-	padding: 30px 30px;
-	color: white;
-}
-
-#Descripcion-Texto
-{
-	padding: 30px 30px;
-	width: 50%;
-	float: left;
-	color: white;
-}
-
-#Descripcion-Imagen
-{
-	
-	width: auto;
 }
 
 @media (max-width :780px)
