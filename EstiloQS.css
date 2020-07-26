@@ -75,6 +75,84 @@ header label:hover
 	color: black;
 }
 
+.equipo
+{
+	width: 90%;
+	margin: auto;
+	color: white;
+}
+
+.Miembros
+{
+	height: 600px;
+	width: 90%;
+	max-width: 600px;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.LGS
+{
+	height: 550px;
+	width: 30%;
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+	color: white;
+}
+
+.LGS img
+{
+	border-radius: 100px;
+}
+
+.LGS h3
+{
+	color: red;
+}
+
+.Nick
+{
+	height: 550px;
+	width: 30%;
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+	color: white;
+}
+
+.Nick img
+{
+	border-radius: 100px;
+}
+
+.Nick h3
+{
+	color: red;
+}
+
+.Thomas
+{
+	height: 550px;
+	width: 30%;
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+	color: white;
+}
+
+.Thomas img
+{
+	border-radius: 100px;
+}
+
+.Thomas h3
+{
+	color: red;
+}
+
 .menu ul #AD a
 {
 	color: white;
