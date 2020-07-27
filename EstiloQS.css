@@ -98,7 +98,7 @@ header label:hover
 	height: 550px;
 	width: 30%;
 	margin: 0;
-	padding: 20px;
+	padding: 30px;
 	text-align: center;
 	color: white;
 }
@@ -118,7 +118,7 @@ header label:hover
 	height: 550px;
 	width: 30%;
 	margin: 0;
-	padding: 20px;
+	padding: 30px;
 	text-align: center;
 	color: white;
 }
@@ -138,7 +138,7 @@ header label:hover
 	height: 550px;
 	width: 30%;
 	margin: 0;
-	padding: 20px;
+	padding: 30px;
 	text-align: center;
 	color: white;
 }
@@ -149,6 +149,26 @@ header label:hover
 }
 
 .Thomas h3
+{
+	color: red;
+}
+
+.Elias
+{
+	height: 550px;
+	width: 30%;
+	margin: 0;
+	padding: 30px;
+	text-align: center;
+	color: white;
+}
+
+.Elias img
+{
+	border-radius: 100px;
+}
+
+.Elias h3
 {
 	color: red;
 }
@@ -200,14 +220,5 @@ header label:hover
 	#BotonMovil:checked ~ .menu
 	{
 		margin-left: 0;
-	}
-
-	.Banner
-	{
-		display: block;
-		margin-left: 20px;
-		margin-right: 20px;
-		margin-top: 20px;
-		width: 100%;
 	}
 }
