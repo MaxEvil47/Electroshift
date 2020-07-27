@@ -59,14 +59,15 @@ header label:hover
 	transition: 0.3s;
 }
 
-#Inicio
-{
-	background: red;
-}
-
 .menu ul #Logo
 {
 	background-color: #25221D;
+}
+
+#Inicio
+{
+	background: red;
+	color: black;
 }
 
 .menu ul #QS a
@@ -75,6 +76,11 @@ header label:hover
 }
 
 .menu ul #AD a
+{
+	color: white;
+}
+
+.menu ul #Contacto a
 {
 	color: white;
 }
