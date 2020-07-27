@@ -197,6 +197,37 @@ header label:hover
 	color: red;
 }
 
+.Vinculos
+{
+	padding-top: auto;
+	padding-bottom: 68px;
+	color: white;
+	background-color: red;
+}
+
+.Vinculos h2
+{
+	padding-left: 5%;
+	width: auto;
+	color: white;
+}
+
+.Vinculos hr
+{
+	width: 90%;
+}
+
+.Vinculos #IDB
+{
+	padding-left: 5%;
+	width: 5%;
+}
+
+.Vinculos #SC
+{
+	width: 5%;
+}
+
 @media (max-width :780px)
 {
 	header label
@@ -226,5 +257,53 @@ header label:hover
 	#BotonMovil:checked ~ .menu
 	{
 		margin-left: 0;
+	}
+
+	.equipo
+	{
+		width: 90%;
+		margin: auto;
+		color: white;
+	}
+
+	.Miembros
+	{
+		height: 600px;
+		width: 100%;
+		max-width: 600px;
+		margin: auto;
+		justify-content: center;
+		align-items: center;
+		display: flex;
+	}
+
+	.LGS img
+	{
+		width: 100%;
+	}
+
+	.Nick img
+	{
+		width: 100%;
+	}
+
+	.Thomas img
+	{
+		width: 100%;
+	}
+
+	.Elias img
+	{
+		width: 100%;
+	}
+
+	.Vinculos #IDB
+	{
+		width: 10%;
+	}
+
+	.Vinculos #SC
+	{
+		width: 10%;
 	}
 }
