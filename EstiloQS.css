@@ -166,6 +166,7 @@ header label:hover
 .Elias img
 {
 	border-radius: 100px;
+	filter: grayscale(100%);
 }
 
 .Elias h3
