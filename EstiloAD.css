@@ -124,17 +124,13 @@ header label:hover
 		border-top: 1px solid #25221D;
 	}
 
+	.menu li img
+	{
+		width: auto;
+	}
+
 	#BotonMovil:checked ~ .menu
 	{
 		margin-left: 0;
-	}
-
-	.Banner
-	{
-		display: block;
-		margin-left: 20px;
-		margin-right: 20px;
-		margin-top: 20px;
-		width: 100%;
 	}
 }

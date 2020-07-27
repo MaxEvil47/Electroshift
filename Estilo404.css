@@ -5,6 +5,16 @@ body
 	background-color: #4C2F00;
 }
 
+body h1
+{
+	color: white;
+}
+
+body h2
+{
+	color: white;
+}
+
 header
 {
 	width: 100%;
@@ -64,18 +74,17 @@ header label:hover
 	background-color: #25221D;
 }
 
-#Inicio
-{
-	background: red;
-	color: black;
-}
-
-.menu ul #QS a
+.menu ul #Inicio a
 {
 	color: white;
 }
 
 .menu ul #AD a
+{
+	color: white;
+}
+
+.menu ul #QS a
 {
 	color: white;
 }
@@ -96,34 +105,6 @@ header label:hover
 	padding: 10px 10px;
 	color: black;
 	text-decoration: none;
-}
-
-.Banner
-{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: auto;
-	width: 97%;
-}
-
-#SOSS
-{
-	padding: 10px 110px;
-	color: white;
-}
-
-#Descripcion-Texto
-{
-	padding: 20px 110px;
-	width: 40%;
-	float: left;
-	color: white;
-}
-
-#Descripcion-Imagen
-{
-	width: auto;
 }
 
 @media (max-width :780px)
@@ -160,29 +141,5 @@ header label:hover
 	#BotonMovil:checked ~ .menu
 	{
 		margin-left: 0;
-	}
-
-	.Banner
-	{
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-		margin-top: auto;
-		width: 96%;
-	}
-
-	#SOSS
-	{
-		padding: 10px 110px;
-	}
-
-	#Descripcion-Texto
-	{
-		padding: 20px 110px;
-	}
-
-	#Descripcion-Imagen
-	{
-		width: auto;
 	}
 }
