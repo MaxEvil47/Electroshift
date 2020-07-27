@@ -98,6 +98,45 @@ header label:hover
 	text-decoration: none;
 }
 
+.Contenedor
+{
+	height: 1100px;
+	width: 100%;
+	max-width: 800px;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.Todo img
+{
+	width: 100%;
+}
+
+.Todo h1
+{
+	text-align: center;
+	color: white;
+}
+
+.Todo h2
+{
+	text-align: center;
+	color: white;
+}
+
+.Todo hr
+{
+	color: white;
+}
+
+.Todo p
+{
+	text-align: center;
+	color: white;
+}
+
 @media (max-width :780px)
 {
 	header label
