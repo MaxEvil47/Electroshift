@@ -137,6 +137,17 @@ header label:hover
 	color: white;
 }
 
+.Caracteristicas
+{
+	float: right;
+}
+
+.ImgCar
+{
+	width: 10%;
+	float: left;
+}
+
 @media (max-width :780px)
 {
 	header label
