@@ -231,6 +231,16 @@ header label:hover
 	width: 100%;
 }
 
+.TrailerVid
+{
+	width: 100%;
+	max-width: 800px;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
 
 .Vinculos
 {
@@ -261,16 +271,6 @@ header label:hover
 .Vinculos #SC
 {
 	width: 5%;
-}
-
-.TrailerVid
-{
-	width: 100%;
-	max-width: 800px;
-	margin: auto;
-	justify-content: center;
-	align-items: center;
-	display: flex;
 }
 
 @media (max-width :780px)
@@ -307,5 +307,26 @@ header label:hover
 	#BotonMovil:checked ~ .menu
 	{
 		margin-left: 0;
+	}
+
+	.Contenedor
+	{
+		height: 4200px;
+		width: 100%;
+		max-width: 600px;
+		margin: auto;
+		justify-content: center;
+		align-items: center;
+		display: flex;
+	}
+
+	.TrailerVid
+	{
+		width: 100%;
+		max-width: 600px;
+		margin: auto;
+		justify-content: center;
+		align-items: center;
+		display: flex;
 	}
 }
