@@ -100,7 +100,7 @@ header label:hover
 
 .Contenedor
 {
-	height: 2100px;
+	height: 2700px;
 	width: 100%;
 	max-width: 800px;
 	margin: auto;
@@ -156,7 +156,7 @@ header label:hover
 
 .Contenido1 img
 {
-	width: 50%;
+	width: 100%;
 }
 
 .Contenido2
@@ -173,7 +173,7 @@ header label:hover
 
 .Multimedia1 img
 {
-	width: 50%;
+	width: 100%;
 }
 
 .Multimedia2
@@ -184,18 +184,18 @@ header label:hover
 
 .Multimedia2 img
 {
-	width: 50%;
+	width: 100%;
 }
 
 .Multimedia3
 {
 	float: bottom;
-	width: 50%;
+	width: 100%;
 }
 
 .Multimedia3 img
 {
-	width: 50%;
+	width: 100%;
 }
 
 .Vinculos
