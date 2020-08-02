@@ -100,7 +100,7 @@ header label:hover
 
 .Contenedor
 {
-	height: 1600px;
+	height: 2100px;
 	width: 100%;
 	max-width: 800px;
 	margin: auto;
@@ -163,6 +163,70 @@ header label:hover
 {
 	float: left;
 	width: 50%;
+}
+
+.Multimedia1
+{
+	float: left;
+	width: 50%;
+}
+
+.Multimedia1 img
+{
+	width: 50%;
+}
+
+.Multimedia2
+{
+	float: left;
+	width: 50%;
+}
+
+.Multimedia2 img
+{
+	width: 50%;
+}
+
+.Multimedia3
+{
+	float: bottom;
+	width: 50%;
+}
+
+.Multimedia3 img
+{
+	width: 50%;
+}
+
+.Vinculos
+{
+	padding-top: auto;
+	padding-bottom: 68px;
+	color: white;
+	background-color: red;
+}
+
+.Vinculos h2
+{
+	padding-left: 5%;
+	width: auto;
+	color: white;
+}
+
+.Vinculos hr
+{
+	width: 90%;
+}
+
+.Vinculos #IDB
+{
+	padding-left: 5%;
+	width: 5%;
+}
+
+.Vinculos #SC
+{
+	width: 5%;
 }
 
 @media (max-width :780px)
