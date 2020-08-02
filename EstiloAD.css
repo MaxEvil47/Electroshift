@@ -100,7 +100,7 @@ header label:hover
 
 .Contenedor
 {
-	height: 1100px;
+	height: 1250px;
 	width: 100%;
 	max-width: 800px;
 	margin: auto;
@@ -146,6 +146,18 @@ header label:hover
 {
 	width: 10%;
 	float: left;
+}
+
+.Contenido1
+{
+	float: left;
+	width: 50%;
+}
+
+.Contenido2
+{
+	float: left;
+	width: 50%;
 }
 
 @media (max-width :780px)
