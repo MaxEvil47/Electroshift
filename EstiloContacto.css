@@ -147,6 +147,77 @@ header label:hover
 	color: white;
 }
 
+.Informacion
+{
+	height: 660px;
+	width: 90%;
+	max-width: 600px;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.Twitter
+{
+	height: 550px;
+	width: 30%;
+	margin: 0;
+	padding: 30px;
+	text-align: center;
+	color: white;
+}
+
+.Twitter img
+{
+	width: 100%;
+}
+
+.Twitter h3
+{
+	color: red;
+}
+
+.Correo
+{
+	height: 550px;
+	width: 40%;
+	margin: 0;
+	padding: 30px;
+	text-align: center;
+	color: white;
+}
+
+.Correo img
+{
+	width: 43%;
+}
+
+.Correo h3
+{
+	color: red;
+}
+
+.Direccion
+{
+	height: 550px;
+	width: 40%;
+	margin: 0;
+	padding: 30px;
+	text-align: center;
+	color: white;
+}
+
+.Direccion img
+{
+	width: 95%;
+}
+
+.Direccion h3
+{
+	color: red;
+}
+
 .Vinculos
 {
 	padding-top: auto;
