@@ -85,6 +85,11 @@ header label:hover
 	color: white;
 }
 
+.menu ul #Galeria a
+{
+	color: white;
+}
+
 .menu ul #QS a
 {
 	color: white;
@@ -101,6 +106,76 @@ header label:hover
 	padding: 10px 10px;
 	color: black;
 	text-decoration: none;
+}
+
+.Contenedor
+{
+	height: 1000px;
+	width: 100%;
+	max-width: 800px;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.Todo img
+{
+	width: 100%;
+}
+
+.Todo h1
+{
+	text-align: center;
+	color: white;
+}
+
+.Todo h2
+{
+	text-align: center;
+	color: white;
+}
+
+.Todo hr
+{
+	color: white;
+}
+
+.Todo p
+{
+	text-align: center;
+	color: white;
+}
+
+.Vinculos
+{
+	padding-top: auto;
+	padding-bottom: 68px;
+	color: white;
+	background-color: red;
+}
+
+.Vinculos h2
+{
+	padding-left: 5%;
+	width: auto;
+	color: white;
+}
+
+.Vinculos hr
+{
+	width: 90%;
+}
+
+.Vinculos #IDB
+{
+	padding-left: 5%;
+	width: 5%;
+}
+
+.Vinculos #SC
+{
+	width: 5%;
 }
 
 @media (max-width :780px)
